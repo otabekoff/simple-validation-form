@@ -56,6 +56,7 @@ This is a modern contact form project built using HTML, CSS, and JavaScript. The
 ## Screenshots
 
 ### Desktop View
+![image](https://github.com/user-attachments/assets/d4133e00-b866-480e-b256-c2d000391278)
 
 ### Mobile View
 
