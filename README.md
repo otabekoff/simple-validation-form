@@ -32,11 +32,11 @@ This is a modern contact form project built using HTML, CSS, and JavaScript. The
 ## Setup and Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/contact-form.git
+    git clone https://github.com/otabekoff/simple-validation-form.git
     ```
 2. Navigate to the project directory:  
     ```bash
-    cd contact-form
+    cd simple-validation-form
     ```
     
 2. Open `index.html` in your web browser to view the form.
