@@ -31,14 +31,12 @@ This is a modern contact form project built using HTML, CSS, and JavaScript. The
 
 ## Setup and Installation
 1. Clone the repository:
-   ```bash
+  ```bash
    git clone https://github.com/yourusername/contact-form.git
-1. Navigate to the project directory:
-    
+  ```
+2. Navigate to the project directory:  
     ```bash
-    bashCopy code
     cd contact-form
-    
     ```
     
 2. Open `index.html` in your web browser to view the form.
